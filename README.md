@@ -1,7 +1,9 @@
 # DietTracker
 
 Final Documentation: trunk/doc/Design Document V2 Fnal.pdf
+
 Final Code: trunk/src
+
 Runnable File: trunk/src/double click me.jar.bat
 
 The​ ​project’s​ ​goal​ ​is​ ​to​ ​create​ ​an​ ​application​ ​that​ ​allows​ ​a​ ​user​ ​to​ ​keep​ ​track​ ​of​ ​personal health​ ​information.​ ​This​ ​information​ ​is​ ​important​ ​to​ ​users​ ​who​ ​wish​ ​to​ ​maintain​ ​a​ ​healthy lifestyle.​ ​Users​ ​will​ ​able​ ​to​ ​add​ ​basic​ ​foods​ ​and​ ​recipes​ ​in​ ​order​ ​to​ ​accurately​ ​keep​ ​track​ ​of​ ​all nutritional​ ​information​ ​such​ ​as​ ​calorie​ ​intake,​ ​which​ ​can​ ​be​ ​influential​ ​to​ ​maintaining​ ​a​ ​healthy lifestyle.​ ​Basic​ ​foods​ ​consist​ ​of​ ​single​ ​food​ ​items​ ​such​ ​a​ ​banana​ ​or​ ​an​ ​apple​ ​that​ ​may​ ​be consumed​ ​by​ ​itself​ ​or​ ​used​ ​as​ ​an​ ​ingredient​ ​for​ ​a​ ​combination​ ​of​ ​foods.​ ​This​ ​combination​ ​of foods​ ​is​ ​called​ ​a​ ​recipe,​ ​which​ ​have​ ​many​ ​different​ ​kinds​ ​of​ ​basic​ ​foods​ ​and​ ​recipes​ ​used together.​ ​The​ ​user​ ​can​ ​add​ ​basic​ ​foods​ ​and​ ​recipes​ ​to​ ​the​ ​food​ ​log​ ​in​ ​order​ ​to​ ​reuse​ ​and​ ​add​ ​the food​ ​items​ ​to​ ​their​ ​food​ ​consumption​ ​log​ ​at​ ​a​ ​later​ ​time.​ ​The​ ​food​ ​log​ ​also​ ​tracks​ ​the​ ​calories, number​ ​of​ ​grams​ ​of​ ​fat,​ ​carbohydrates,​ ​and​ ​proteins​ ​per​ ​serving​ ​for​ ​each​ ​food​ ​item. ​ ​
