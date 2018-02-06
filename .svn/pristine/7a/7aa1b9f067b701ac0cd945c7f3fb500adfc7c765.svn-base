@@ -1,0 +1,4 @@
+cd ../../..
+cd out/production/383Project
+cd java
+java UserMain
